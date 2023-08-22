@@ -28,3 +28,6 @@ function myDigitalClock() {
 // Call the myDigitalClock function to start the digital clock
 myDigitalClock();
 
+// To log the time every second uncomment the following line
+// setInterval(myDigitalClock, 1000);
+
